@@ -1,2 +1,5 @@
-# let666
-gut study
+# 直播鱼Git教程
+-----
+-单人开发中使用Git
+-多人开发中使用Git
+-gutflw工作流
